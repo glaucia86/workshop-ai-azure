@@ -1,2 +1,3 @@
-# workshop-ai-azure
-Workshop de A.I + Cognitive Services with Azure
+# Workshop - A.I + Cognitive Services + Azure
+
+**(em desenvolvimento)**
