@@ -52,24 +52,24 @@ module.exports = {
         selectText: 'Idiomas',
         label: 'Español',
         sidebar: [
-          { title: 'Introducción a Azure', children: ['/workshop/1/pg1','/workshop/1/pg2','/workshop/1/pg3',],},
-          { title: '¡Desarrolle FAQs Inteligentes con QnA Maker & Teams!', children: ['/workshop/2/pg1','/workshop/2/pg2','/workshop/2/pg3',],},
-          { title: 'Cree una Aplicación de Reconocimiento Facial con Face API & Node.js', children: ['/workshop/3/pg1','/workshop/3/pg2','/workshop/3/pg3',],},
-          { title: '¡Identifica superhéroes con Custom Vision!', children: ['/workshop/4/pg1','/workshop/4/pg2','/workshop/4/pg3',],},
-          { title: 'Desarrolle un Traductor en tiempo real con Translator Text & Node.js', children: ['/workshop/5/pg1','/workshop/5/pg2','/workshop/5/pg3',],},
-          { title: 'Próximos Pasos', children: ['/workshop/next-steps/pg1',],},  
+          { title: 'Introducción a Azure', children: ['/es/workshop/1/pg1','/es/workshop/1/pg2','/es/workshop/1/pg3',],},
+          { title: '¡Desarrolle FAQs Inteligentes con QnA Maker & Teams!', children: ['/es/workshop/2/pg1','/es/workshop/2/pg2','/es/workshop/2/pg3',],},
+          { title: 'Cree una Aplicación de Reconocimiento Facial con Face API & Node.js', children: ['/es/workshop/3/pg1','/es/workshop/3/pg2','/es/workshop/3/pg3',],},
+          { title: '¡Identifica superhéroes con Custom Vision!', children: ['/es/workshop/4/pg1','/es/workshop/4/pg2','/es/workshop/4/pg3',],},
+          { title: 'Desarrolle un Traductor en tiempo real con Translator Text & Node.js', children: ['/es/workshop/5/pg1','/es/workshop/5/pg2','/es/workshop/5/pg3',],},
+          { title: 'Próximos Pasos', children: ['/es/workshop/next-steps/pg1',],},  
         ]
       },
       '/en/': {
         selectText: 'Languages',
         label: 'English',
         sidebar: [
-          { title: 'Introduction to Azure', children: ['/workshop/1/pg1','/workshop/1/pg2','/workshop/1/pg3',],},
-          { title: 'Build Smart FAQs with QnA Maker & Teams!', children: ['/workshop/2/pg1','/workshop/2/pg2','/workshop/2/pg3',],},
-          { title: 'Create a Face Recognition Application with Face API & Node.js', children: ['/workshop/3/pg1','/workshop/3/pg2','/workshop/3/pg3',],},
-          { title: 'Identify Heroes with Custom Vision!', children: ['/workshop/4/pg1','/workshop/4/pg2','/workshop/4/pg3',],},
-          { title: 'Real-time Translation Application with Translator Text & Node.js', children: ['/workshop/5/pg1','/workshop/5/pg2','/workshop/5/pg3',],},
-          { title: 'Next Steps', children: ['/workshop/next-steps/pg1',],},  
+          { title: 'Introduction to Azure', children: ['/en/workshop/1/pg1','/en/workshop/1/pg2','/en/workshop/1/pg3',],},
+          { title: 'Build Smart FAQs with QnA Maker & Teams!', children: ['/en/workshop/2/pg1','/en/workshop/2/pg2','/en/workshop/2/pg3',],},
+          { title: 'Create a Face Recognition Application with Face API & Node.js', children: ['/en/workshop/3/pg1','/en/workshop/3/pg2','/en/workshop/3/pg3',],},
+          { title: 'Identify Heroes with Custom Vision!', children: ['/en/workshop/4/pg1','/en/workshop/4/pg2','/en/workshop/4/pg3',],},
+          { title: 'Real-time Translation Application with Translator Text & Node.js', children: ['/en/workshop/5/pg1','/en/workshop/5/pg2','/en/workshop/5/pg3',],},
+          { title: 'Next Steps', children: ['/en/workshop/next-steps/pg1',],},  
         ]
       },
     }, // fim colchete de locales
