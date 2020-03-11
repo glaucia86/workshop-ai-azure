@@ -45,7 +45,7 @@ module.exports = {
           { title: 'Crie uma Aplicação de Reconhecimento Facial com Face API & Node.js', children: ['/workshop/3/pg1','/workshop/3/pg2','/workshop/3/pg3',],},
           { title: 'Identifique Super Heróis com Custom Vision!', children: ['/workshop/4/pg1','/workshop/4/pg2','/workshop/4/pg3',],},
           { title: 'Tradução em tempo real com Translator Text & Node.js', children: ['/workshop/5/pg1','/workshop/5/pg2','/workshop/5/pg3',],},
-          { title: 'Próximos Passos', children: ['/workshop/proximos-passos/pg1',],},
+          { title: 'Próximos Passos', children: ['/workshop/next-steps/pg1',],},
         ],
       },
       '/es/': {
@@ -57,7 +57,7 @@ module.exports = {
           { title: 'Cree una Aplicación de Reconocimiento Facial con Face API & Node.js', children: ['/workshop/3/pg1','/workshop/3/pg2','/workshop/3/pg3',],},
           { title: '¡Identifica superhéroes con Custom Vision!', children: ['/workshop/4/pg1','/workshop/4/pg2','/workshop/4/pg3',],},
           { title: 'Desarrolle un Traductor en tiempo real con Translator Text & Node.js', children: ['/workshop/5/pg1','/workshop/5/pg2','/workshop/5/pg3',],},
-          { title: 'Próximos Pasos', children: ['/workshop/proximos-passos/pg1',],},  
+          { title: 'Próximos Pasos', children: ['/workshop/next-steps/pg1',],},  
         ]
       },
       '/en/': {
@@ -69,7 +69,7 @@ module.exports = {
           { title: 'Create a Face Recognition Application with Face API & Node.js', children: ['/workshop/3/pg1','/workshop/3/pg2','/workshop/3/pg3',],},
           { title: 'Identify Heroes with Custom Vision!', children: ['/workshop/4/pg1','/workshop/4/pg2','/workshop/4/pg3',],},
           { title: 'Real-time Translation Application with Translator Text & Node.js', children: ['/workshop/5/pg1','/workshop/5/pg2','/workshop/5/pg3',],},
-          { title: 'Next Steps', children: ['/workshop/proximos-passos/pg1',],},  
+          { title: 'Next Steps', children: ['/workshop/next-steps/pg1',],},  
         ]
       },
     }, // fim colchete de locales
