@@ -2,6 +2,7 @@
 home: true
 heroImage: /Bit_Learning.png
 heroText: Taller I.A + Servicios Cognitivos + Azure
+tagline: Aprenda a desarrollar aplicaciones inteligentes con Cognitive Services + I.A y Azure Services
 actionText: ¡¿Empecemos?!
 actionLink: /es/workshop/
 features:
