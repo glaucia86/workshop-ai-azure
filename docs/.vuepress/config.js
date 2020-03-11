@@ -10,6 +10,9 @@ module.exports = {
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   title: 'Workshop A.I + Cognitive Services + Azure',
   description: 'Workshops de A.I + Cognitive Services + Azure, com intuito de ajudar a todas as pessoas a aprenderem a criar aplicações inteligentes e disponibilizar no Azure!',
+  markdown: {
+    lineNumbers: true,
+  },
   locales: {
     '/': {
       lang: 'pt-BR',
@@ -28,17 +31,19 @@ module.exports = {
     },
   },
   themeConfig: {
-    repo: 'workshop-ai-azure/docs',
+    repo: 'https://github.com/glaucia86/workshop-ai-azure',
     editLinks: true,
     editLinkText: 'Encontrou algum erro? Nos ajude a melhorar esse workshop!',
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Código de Conduta', link: '/workshop/CODE_OF_CONDUCT' },
-    ],
     locales: {
       '/': {
         selectText: 'Idiomas',
         label: 'Português',
+        nav: [
+          { text: 'Página Principal', link: '/' },
+          { text: 'Videos', link: 'https://www.youtube.com/user/l32759' },
+          { text: 'Dúvidas?', link: 'https://github.com/glaucia86/workshop-ai-azure/issues' },
+          { text: 'Código de Conduta', link: '/workshop/CODE_OF_CONDUCT' },
+        ],
         sidebar: [
           { title: 'Introdução à Azure', children: ['/workshop/1/pg1','/workshop/1/pg2','/workshop/1/pg3',],},
           { title: 'Desenvolva FAQs Inteligentes com QnA Maker & Teams!', children: ['/workshop/2/pg1','/workshop/2/pg2','/workshop/2/pg3',],},
@@ -51,6 +56,12 @@ module.exports = {
       '/es/': {
         selectText: 'Idiomas',
         label: 'Español',
+        nav: [
+          { text: 'Home', link: '/es/' },
+          { text: 'Videos', link: 'https://www.youtube.com/user/l32759' },
+          { text: '¿Dudas?', link: 'https://github.com/glaucia86/workshop-ai-azure/issues' },
+          { text: 'Código de Conducta', link: '/es/CODE_OF_CONDUCT' },
+        ],
         sidebar: [
           { title: 'Introducción a Azure', children: ['/es/workshop/1/pg1','/es/workshop/1/pg2','/es/workshop/1/pg3',],},
           { title: '¡Desarrolle FAQs Inteligentes con QnA Maker & Teams!', children: ['/es/workshop/2/pg1','/es/workshop/2/pg2','/es/workshop/2/pg3',],},
@@ -63,6 +74,12 @@ module.exports = {
       '/en/': {
         selectText: 'Languages',
         label: 'English',
+        nav: [
+          { text: 'Home', link: '/en/' },
+          { text: 'Videos', link: 'https://www.youtube.com/user/l32759' },
+          { text: 'Doubts?', link: 'https://github.com/glaucia86/workshop-ai-azure/issues' },
+          { text: 'Code of Conduct', link: '/en/CODE_OF_CONDUCT' },
+        ],
         sidebar: [
           { title: 'Introduction to Azure', children: ['/en/workshop/1/pg1','/en/workshop/1/pg2','/en/workshop/1/pg3',],},
           { title: 'Build Smart FAQs with QnA Maker & Teams!', children: ['/en/workshop/2/pg1','/en/workshop/2/pg2','/en/workshop/2/pg3',],},
