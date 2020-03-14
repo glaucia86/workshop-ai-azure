@@ -47,7 +47,7 @@ module.exports = {
         sidebar: [
           { title: '☁️ Workshop 1: Introdução à Azure', children: ['/workshop/1/pg1','/workshop/1/pg2','/workshop/1/pg3',],},
           { title: '💬 Workshop 2: Desenvolva FAQs Inteligentes com QnA Maker & Teams!', children: ['/workshop/2/pg1','/workshop/2/pg2','/workshop/2/pg3',],},
-          { title: '👥 Workshop 3: Crie uma Aplicação de Reconhecimento Facial com Face API & Node.js', children: ['/workshop/3/pg1','/workshop/3/pg2','/workshop/3/pg3', '/workshop/3/pg4', '/workshop/3/pg5',],},
+          { title: '👥 Workshop 3: Crie uma Aplicação de Reconhecimento Facial com Face API & Node.js', children: ['/workshop/3/pg1','/workshop/3/pg2','/workshop/3/pg3','/workshop/3/pg4','/workshop/3/pg5',],},
           { title: '⚡️ Workshop 4: Identifique Super Heróis com Custom Vision!', children: ['/workshop/4/pg1','/workshop/4/pg2','/workshop/4/pg3',],},
           { title: '🔈 Workshop 5: Tradução em tempo real com Translator Text & Node.js', children: ['/workshop/5/pg1','/workshop/5/pg2','/workshop/5/pg3',],},
           { title: '📕 Próximos Passos', children: ['/workshop/next-steps/pg1',],},
@@ -65,7 +65,7 @@ module.exports = {
         sidebar: [
           { title: '☁️ Taller 1: Introducción a Azure', children: ['/es/workshop/1/pg1','/es/workshop/1/pg2','/es/workshop/1/pg3',],},
           { title: '💬 Taller 2: ¡Desarrolle FAQs Inteligentes con QnA Maker & Teams!', children: ['/es/workshop/2/pg1','/es/workshop/2/pg2','/es/workshop/2/pg3',],},
-          { title: '👥 Taller 3: Cree una Aplicación de Reconocimiento Facial con Face API & Node.js', children: ['/es/workshop/3/pg1','/es/workshop/3/pg2','/es/workshop/3/pg3', '/es/workshop/3/pg4', '/es/workshop/3/pg5',],},
+          { title: '👥 Taller 3: Cree una Aplicación de Reconocimiento Facial con Face API & Node.js', children: ['/es/workshop/3/pg1','/es/workshop/3/pg2','/es/workshop/3/pg3','/es/workshop/3/pg4','/es/workshop/3/pg5',],},
           { title: '⚡️ Taller 4: ¡Identifica superhéroes con Custom Vision!', children: ['/es/workshop/4/pg1','/es/workshop/4/pg2','/es/workshop/4/pg3',],},
           { title: '🔈 Taller 5: Desarrolle un Traductor en tiempo real con Translator Text & Node.js', children: ['/es/workshop/5/pg1','/es/workshop/5/pg2','/es/workshop/5/pg3',],},
           { title: '📕 Próximos Pasos', children: ['/es/workshop/next-steps/pg1',],},  
