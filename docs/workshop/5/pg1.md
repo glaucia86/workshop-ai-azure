@@ -24,5 +24,5 @@ Sim, o **[Translator Text](https://azure.microsoft.com/services/cognitive-servic
 
 Caso desejam saber quais idiomas estão disponíveis para a API do Translator Text, podem conferir com mais detalhes **[AQUI](https://docs.microsoft.com/azure/cognitive-services/translator/language-support?WT.mc_id=ai_nodejs-workshop-gllemos)**.
 
-Bom... depois de toda essa explicação, agora podemos começar a testar esse serviço e claro, desenvolver uma aplicação em Node.js. Vamos nessa?! 
+Bom... depois de toda essa explicação, agora podemos começar a testar esse serviço e claro, desenvolver uma aplicação em Node.js. Vamos nessa?! 😃
 
