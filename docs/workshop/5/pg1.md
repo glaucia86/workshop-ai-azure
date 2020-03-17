@@ -2,7 +2,7 @@
 title: Introdução - O que é Translator Text?
 ---
 
-## Introdução - O que é Translator Text?
+# Introdução - O que é Translator Text?
 
 [![translator-api.png](https://i.postimg.cc/y817TvF3/translator-api.png)](https://postimg.cc/SJP0SL1m)
 
@@ -24,5 +24,10 @@ Sim, o **[Translator Text](https://azure.microsoft.com/services/cognitive-servic
 
 Caso desejam saber quais idiomas estão disponíveis para a API do Translator Text, podem conferir com mais detalhes **[AQUI](https://docs.microsoft.com/azure/cognitive-services/translator/language-support?WT.mc_id=ai_nodejs-workshop-gllemos)**.
 
-Bom... depois de toda essa explicação, agora podemos começar a testar esse serviço e claro, desenvolver uma aplicação em Node.js. Vamos nessa?! 😃
+## O que Iremos Desenvolver?
+
+Nós iremos desenvolver uma aplicação em Node.js e usando o Translator Text. Será uma aplicação onde podemos ter realizar traduções de idiomas ocidentais, tais como: inglês -> português ou espanhol -> inglês e incluso idiomas orientais, tais como: mandarim -> português. Assim, aprenderemos todas as informações necessárias em relação a essa API incrível que nos permite fazer tantas coisas legais.
+
+A pergunta que fica, estão preparados? Se sim, aqui vamos?!😃
+
 
