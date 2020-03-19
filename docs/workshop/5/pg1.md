@@ -26,7 +26,7 @@ Caso desejam saber quais idiomas estão disponíveis para a API do Translator Te
 
 ## O que Iremos Desenvolver?
 
-Nós iremos desenvolver uma aplicação em Node.js e usando o Translator Text. Será uma aplicação onde podemos ter realizar traduções de idiomas ocidentais, tais como: inglês -> português ou espanhol -> inglês e incluso idiomas orientais, tais como: mandarim -> português. Assim, aprenderemos todas as informações necessárias em relação a essa API incrível que nos permite fazer tantas coisas legais.
+Nós iremos desenvolver uma aplicação em Node.js e usando o Translator Text. Será uma aplicação onde podemos ter realizar traduções de idiomas ocidentais, tais como: **inglês -> português** ou **espanhol -> inglês** e incluso idiomas orientais, tais como: **mandarim -> português**. Assim, aprenderemos todas as informações necessárias em relação a essa API incrível que nos permite fazer tantas coisas legais.
 
 A pergunta que fica, estão preparados? Se sim, aqui vamos?!😃
 
