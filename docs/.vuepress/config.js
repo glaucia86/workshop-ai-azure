@@ -49,7 +49,7 @@ module.exports = {
           { title: '💬 Workshop 2: Desenvolva FAQs Inteligentes com QnA Maker & Teams!', children: ['/workshop/2/pg1','/workshop/2/pg2','/workshop/2/pg3',],},
           { title: '👥 Workshop 3: Crie uma Aplicação de Reconhecimento Facial com Face API & Node.js', children: ['/workshop/3/pg1','/workshop/3/pg2','/workshop/3/pg3','/workshop/3/pg4','/workshop/3/pg5',],},
           { title: '⚡️ Workshop 4: Identifique Super Heróis com Custom Vision!', children: ['/workshop/4/pg1','/workshop/4/pg2','/workshop/4/pg3',],},
-          { title: '🔈 Workshop 5: Tradução em tempo real com Translator Text & Node.js', children: ['/workshop/5/pg1','/workshop/5/pg2','/workshop/5/pg3',],},
+          { title: '🔈 Workshop 5: Tradução em tempo real com Translator Text & Node.js', children: ['/workshop/5/pg1','/workshop/5/pg2','/workshop/5/pg3','/workshop/5/pg4',],},
           { title: '📕 Próximos Passos', children: ['/workshop/next-steps/pg1',],},
         ],
       },
@@ -67,7 +67,7 @@ module.exports = {
           { title: '💬 Taller 2: ¡Desarrolle FAQs Inteligentes con QnA Maker & Teams!', children: ['/es/workshop/2/pg1','/es/workshop/2/pg2','/es/workshop/2/pg3',],},
           { title: '👥 Taller 3: Cree una Aplicación de Reconocimiento Facial con Face API & Node.js', children: ['/es/workshop/3/pg1','/es/workshop/3/pg2','/es/workshop/3/pg3','/es/workshop/3/pg4','/es/workshop/3/pg5',],},
           { title: '⚡️ Taller 4: ¡Identifica superhéroes con Custom Vision!', children: ['/es/workshop/4/pg1','/es/workshop/4/pg2','/es/workshop/4/pg3',],},
-          { title: '🔈 Taller 5: Desarrolle un Traductor en tiempo real con Translator Text & Node.js', children: ['/es/workshop/5/pg1','/es/workshop/5/pg2','/es/workshop/5/pg3',],},
+          { title: '🔈 Taller 5: Desarrolle un Traductor en tiempo real con Translator Text & Node.js', children: ['/es/workshop/5/pg1','/es/workshop/5/pg2','/es/workshop/5/pg3','/es/workshop/5/pg4',],},
           { title: '📕 Próximos Pasos', children: ['/es/workshop/next-steps/pg1',],},  
         ]
       },
@@ -85,7 +85,7 @@ module.exports = {
           { title: '💬 Workshop 2: Build Smart FAQs with QnA Maker & Teams!', children: ['/en/workshop/2/pg1','/en/workshop/2/pg2','/en/workshop/2/pg3',],},
           { title: '👥 Workshop 3: Create a Face Recognition Application with Face API & Node.js', children: ['/en/workshop/3/pg1','/en/workshop/3/pg2','/en/workshop/3/pg3','/en/workshop/3/pg4','/en/workshop/3/pg5',],},
           { title: '⚡️ Workshop 4: Identify Heroes with Custom Vision!', children: ['/en/workshop/4/pg1','/en/workshop/4/pg2','/en/workshop/4/pg3',],},
-          { title: '🔈 Workshop 5: Real-time Translation Application with Translator Text & Node.js', children: ['/en/workshop/5/pg1','/en/workshop/5/pg2','/en/workshop/5/pg3',],},
+          { title: '🔈 Workshop 5: Real-time Translation Application with Translator Text & Node.js', children: ['/en/workshop/5/pg1','/en/workshop/5/pg2','/en/workshop/5/pg3','/en/workshop/5/pg4',],},
           { title: '📕 Next Steps', children: ['/en/workshop/next-steps/pg1',],},  
         ]
       },
