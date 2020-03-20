@@ -20,7 +20,7 @@ Abaixo listo alguns recursos e links importantes que podem ser de ajuda para cri
 
 - ✅ **[Material e Recursos sobre: Translator Text](https://docs.microsoft.com/azure/cognitive-services/translator/?WT.mc_id=ai_nodejs-workshop-gllemos)**
 
-- ✅ **[Azure para devs JavaScript & Node.js](https://docs.microsoft.com/pt-br/javascript/azure/?WT.mc_id=ai_nodejs-workshop-gllemos&view=azure-node-latest)**
+- ✅ **[Azure para devs JavaScript & Node.js](https://docs.microsoft.com/javascript/azure/?WT.mc_id=ai_nodejs-workshop-gllemos)**
 
 - ✅ **[Cursos Grátis - Cognitive Speech Services](https://docs.microsoft.com/learn/paths/translate-speech-with-speech-services/?WT.mc_id=ai_nodejs-workshop-gllemos)**
 
@@ -28,9 +28,9 @@ Abaixo listo alguns recursos e links importantes que podem ser de ajuda para cri
 
 - ✅ **[Curso Grátis - Engenheiro de I.A](https://docs.microsoft.com/learn/browse/?roles=ai-engineer&WT.mc_id=ai_nodejs-workshop-gllemos)**
 
-- ✅ **[E-book Grátis: Crie seu primeiro bot inteligente com a I.A da Microsoft](https://azure.microsoft.com/es-es/resources/create-your-first-intelligent-bot-with-microsoft-ai-pt-br/?WT.mc_id=ai_nodejs-workshop-gllemos)**
+- ✅ **[E-book Grátis: Crie seu primeiro bot inteligente com a I.A da Microsoft](https://azure.microsoft.com/resources/create-your-first-intelligent-bot-with-microsoft-ai/?WT.mc_id=ai_nodejs-workshop-gllemos)**
 
-- ✅ **[Teste Grátis - Cognitive Services](https://azure.microsoft.com/es-es/services/cognitive-services/?WT.mc_id=faceapinodejs-github-gllemos)**
+- ✅ **[Teste Grátis - Cognitive Services](https://azure.microsoft.com/services/cognitive-services?WT.mc_id=ai_nodejs-workshop-gllemos)**
 
 - ✅ **[Teste Grátis A.I](https://azure.microsoft.com/free/ai/?WT.mc_id=ai_nodejs-workshop-gllemos)**
 
