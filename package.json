@@ -1,7 +1,7 @@
 {
   "name": "workshop-ai-azure",
   "version": "1.0.0",
-  "description": "Workshop de A.I + Cognitive Services with Azure",
+  "description": "Workshop de A.I + Cognitive Services + Azure",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
