@@ -2,7 +2,7 @@
 title: Desenvolvendo o Código
 ---
 
-# Desenvolvendo o Código
+# Desenvolvendo o código
 
 Abrem agora o seu **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=ai_nodejs-workshop-gllemos)** e digite o seguinte comando abaixo:
 
@@ -43,7 +43,7 @@ Esse comando irá criar um arquivo chamado **package.json** padrão para nós! A
 }
 ```
 
-## Criando a Estrutura do Projeto
+## Criando a estrutura do projeto
 
 Vamos montar a seguinte estrutura do projeto conforme a imagem abaixo:
 
@@ -51,7 +51,7 @@ Vamos montar a seguinte estrutura do projeto conforme a imagem abaixo:
 
 Notem que, o arquivo `tradutor-texto.js` está dentro da pasta `src`. É nesse arquivo que iremos desenvolver a lógica da nossa aplicação.
 
-## Desenvolvendo o Projeto
+## Desenvolvendo o projeto
 
 Antes de mais nada, vamos instalar alguns pacotes que precisaremos usar no nosso projeto. Para isso, abram o prompt de comando e digitam o seguinte comando:
 
@@ -149,7 +149,7 @@ Observem a importância de configurarmos localmente as nossas variáveis de ambi
 
 Vamos dar continuidade!
 
-## Configurando as Requisições
+## Configurando as requisições
 
 Estamos quase chegando ao final do desenvolvimento do nosso código! Para isso, vamos configurar as requisições para realizar a chamada da API do Translator Text. Para isso, incluam o seguinte bloco de código abaixo:
 

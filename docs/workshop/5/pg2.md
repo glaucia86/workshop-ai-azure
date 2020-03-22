@@ -2,7 +2,7 @@
 title: Criando Aplicação de Tradução com Translator Text & Node.js
 ---
 
-# Criando Aplicação de Tradução com Translator Text & Node.js
+# Criando aplicação de tradução com Translator Text & Node.js
 
 A partir de agora, vamos criar a nossa aplicação, quaisquer dúvidas que vocês tiverem em relação ao código desenvolvido poderão conferir **[AQUI](https://github.com/glaucia86/translatortext-nodejs-demo)** e caso tenham dúvidas em relação ao projeto criado, peço a todos vocês que criem uma **[ISSUE AQUI](https://github.com/glaucia86/translatortext-nodejs-demo/issues)** que muito en pronto estarei tirando todas as dúvidas de todos(as) vocês.
 
@@ -18,7 +18,7 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 Depois de instalar e criar uma conta Azure aí sim poderemos prosseguir com o nosso tutorial.
 
-## Criando Recurso do Translator Text
+## Criando Grupo de Recursos para o Translator Text
 
 Bom, o primeiro passo que vamos precisar é criar um **[Recurso do Translator Text](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account?WT.mc_id=ai_nodejs-workshop-gllemos)** no **[Portal Azure](https://azure.microsoft.com/?WT.mc_id=ai_nodejs-workshop-gllemos)**. 
 

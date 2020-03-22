@@ -2,7 +2,7 @@
 title: Palavras Finais
 ---
 
-# Palavras Finais
+# Palavras finais
 
 Hoje aprendemos um pouco o que é o **[Translator Text](http://bit.ly/2OlOjo4)**, a grande quantidade de idiomas que podemos fazer uso para realizar traduções em aplicações e uma demonstração a qual puderam aprender como é fácil usar essa API. 
 Um ponto que não mencionei é que, essa API, além do Node.js/JavaScript, também está disponível para ser desenvolvido nas seguintes linguagens:
@@ -14,7 +14,7 @@ Um ponto que não mencionei é que, essa API, além do Node.js/JavaScript, tamb�
 - **[PHP](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-PHP)**
 - **[Ruby](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-Ruby)**
 
-## Recursos sobre Face API e Links Importantes
+## Recursos e links importantes sobre Face API
 
 Abaixo listo alguns recursos e links importantes que podem ser de ajuda para criar mais aplicações usando o Face API:
 

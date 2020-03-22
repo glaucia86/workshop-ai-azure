@@ -18,7 +18,7 @@ Esse serviço possuem duas versões:
 
 * ✅  **[V3 Translator API](https://docs.microsoft.com/azure/cognitive-services/translator/language-support?WT.mc_id=ai_nodejs-workshop-gllemos)**: essa versão faz uso de um sistema neural por padrão. Porém, os sistemas estatísticos estarão disponíveis somente quando não houver nenhum sistema neural.
 
-## Suporte para Mais de 60 idiomas!
+## Suporte para mais de 60 idiomas!
 
 Sim, o **[Translator Text](https://azure.microsoft.com/services/cognitive-services/translator-text-api/?WT.mc_id=ai_nodejs-workshop-gllemos)** disponibiliza para mais de 60 idiomas. Entre os idiomas: Árabe, Espanhol, Italiano, Inglês, Português e muitas outras.
 
