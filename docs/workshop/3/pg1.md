@@ -20,7 +20,7 @@ O **[Face API](https://azure.microsoft.com/services/cognitive-services/face/?WT.
 
 Para mais informações a respeito do Face API, pode ter um overview com maiores detalhes **[AQUI](https://docs.microsoft.com/azure/cognitive-services/face/overview?WT.mc_id=ai_nodejs-workshop-gllemos)**.
 
-## O que Iremos Desenvolver?
+## O que iremos desenvolver?
 
 Nós iremos desenvolver uma aplicação em Node.js e usando o Face API. É uma aplicação onde podemos ter conhecimento necessário para aplicar a API em qualquer outro projeto. No final, iremos realizar o deploy dessa aplicação na nuvem através do Azure Storage Account.
 

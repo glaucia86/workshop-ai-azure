@@ -2,7 +2,7 @@
 title: Criando Aplicação de Reconhecimento Facial com Face API & Node.js
 ---
 
-# Criando Aplicação de Reconhecimento Facial com Face API & Node.js
+# Criando aplicação de reconhecimento facial com Face API & Node.js
 
 A partir de agora, vamos criar a nossa aplicação, quaisquer dúvidas que vocês tiverem em relação ao código desenvolvido poderão conferir **[AQUI](https://github.com/glaucia86/faceapi-nodejs-demo)** e caso tenham dúvidas em relação ao projeto criado, peço a todos vocês que criem uma **[ISSUE AQUI](https://github.com/glaucia86/workshop-ai-azure/issues)** que muito pronto estarei sanando todas as dúvidas de todos vocês.
 

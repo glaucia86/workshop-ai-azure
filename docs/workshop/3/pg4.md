@@ -178,11 +178,11 @@ Vejam o retorno abaixo para a imagem do `Silvio Santos`:
 ]
 ```
 
-Legal não é mesmo?! Mas, e se eu quiser ver a imagem e o retorno no browser?! Não tem problema! Criei uma outra aplicação, fazendo uso do: `demo-2`. Nessa aplicação fiz uso das seguintes stacks:
+Legal, não é mesmo?! Mas, e se eu quiser ver a imagem e o retorno no browser?! Não tem problema! Criei uma outra aplicação, fazendo uso do: `demo-2`. Nessa aplicação fiz uso das seguintes stacks:
 
 * **[Node.js](https://nodejs.org/en/)**
 * **[Pug](https://pugjs.org/api/getting-started.html)**
-* **[Express](https://expressjs.com/pt-br/)**
+* **[Express](https://expressjs.com)**
 * **[Bootstrap](https://getbootstrap.com/)**
 
 Vejam em ação aqui no gif abaixo:
