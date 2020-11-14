@@ -4,7 +4,7 @@ Repositório responsável pelo workshop de **[A.I + Cognitive Services + Azure](
 
 ## Recursos Utilizados durante o Workshop 🚀
 
-* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=workshop_ai_nodejs-github-gllemos)**
+* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
 * **[VuePress](https://vuepress.vuejs.org/)**
 
