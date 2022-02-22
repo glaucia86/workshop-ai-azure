@@ -28,6 +28,24 @@ Repositório responsável pelo workshop de **[A.I + Cognitive Services + Azure](
 > npm run docs:dev
 ```
 
+6. Serve the documentation site in the local server
+
+   <code-group>
+   <code-block title="YARN" active>
+   ```bash
+   yarn docs:dev
+   ```
+   </code-block>
+
+   <code-block title="NPM">
+   ```bash
+   npm run docs:dev
+   ```
+   </code-block>
+   </code-group>
+
+   VuePress will start a hot-reloading development server at [http://localhost:8080](http://localhost:8080).
+
 4. Agora, abre o browser em: `localhost:8080` e abrirá a página principal do Workshop.
 
 *p.s.: esse workshop está disponível de forma online também **[AQUI](https://previewworkshopai.z22.web.core.windows.net/)**
