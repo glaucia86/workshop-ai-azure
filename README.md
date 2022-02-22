@@ -26,13 +26,11 @@ Repositório responsável pelo workshop de **[A.I + Cognitive Services + Azure](
 
 <code-group>
 <code-block title="YARN" active>
-
 ```bash
 yarn docs:dev
 ```
 </code-block>
 <code-block title="NPM">
-
 ```bash
 npm run docs:dev
 ```
