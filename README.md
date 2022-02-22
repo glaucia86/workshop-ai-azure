@@ -31,7 +31,9 @@ Repositório responsável pelo workshop de **[A.I + Cognitive Services + Azure](
 yarn docs:dev
 ```
 </code-block>
- 
+  
+ Or 
+  
 <code-block title="NPM">
   
 ```bash
