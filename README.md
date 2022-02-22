@@ -30,7 +30,7 @@ Repositório responsável pelo workshop de **[A.I + Cognitive Services + Azure](
 
 4. Agora, abre o browser em: `localhost:8080` e abrirá a página principal do Workshop.
 
-*p.s.: esse workshop está disponível de forma online também **[AQUI]()**
+*p.s.: esse workshop está disponível de forma online também **[AQUI](https://previewworkshopai.z22.web.core.windows.net/)**
 
 ## Quero ajudar a contribuir nas traduções para outros idiomas. Como faço?!
 
