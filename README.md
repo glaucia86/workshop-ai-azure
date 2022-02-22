@@ -24,31 +24,24 @@ Repositório responsável pelo workshop de **[A.I + Cognitive Services + Azure](
 
 3. Feito isso, agora você deve digitar o comando abaixo para executar a aplicação:
 
+<code-group>
+<code-block title="YARN" active>
+
 ```bash
-> npm run docs:dev
+yarn docs:dev
 ```
+</code-block>
+<code-block title="NPM">
 
-6. Serve the documentation site in the local server
-
-   <code-group>
-   <code-block title="YARN" active>
-   ```bash
-   yarn docs:dev
-   ```
-   </code-block>
-
-   <code-block title="NPM">
-   ```bash
-   npm run docs:dev
-   ```
-   </code-block>
-   </code-group>
-
-   VuePress will start a hot-reloading development server at [http://localhost:8080](http://localhost:8080).
+```bash
+npm run docs:dev
+```
+</code-block>
+</code-group>
 
 4. Agora, abre o browser em: `localhost:8080` e abrirá a página principal do Workshop.
 
-*p.s.: esse workshop está disponível de forma online também **[AQUI](https://previewworkshopai.z22.web.core.windows.net/)**
+> p.s.: esse workshop está disponível de forma online também **[AQUI](https://previewworkshopai.z22.web.core.windows.net/)**
 
 ## Quero ajudar a contribuir nas traduções para outros idiomas. Como faço?!
 
